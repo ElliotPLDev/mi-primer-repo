@@ -1,0 +1,7 @@
+Hola esta es una pequeña lista de la compra
+
+- Leche
+- Huevos
+- Carne
+- Fruta
+- Manzana
